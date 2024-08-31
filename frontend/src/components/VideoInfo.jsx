@@ -1,7 +1,7 @@
 import React from 'react';
 
 function VideoInfo({ video }) {
-  if (!video) return <div>Loading...</div>;
+  if (!video) return <div className="text-gray-600 dark:text-gray-300">Loading...</div>;
 
   const renderDescription = (description) => {
     return description.split('\n').map((line, index) => {
