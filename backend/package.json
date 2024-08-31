@@ -1,11 +1,11 @@
 {
   "name": "backend",
   "version": "0.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "author": "Naveen Prashanth",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "seed": "node src/seedDatabase.js"
 },
   "dependencies": {
