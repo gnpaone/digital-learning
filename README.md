@@ -5,6 +5,9 @@ Digital Learning Library is a full-stack application that provides an interactiv
 <p align="center">
   <img src="./assets/sc.png" alt="UI Screenshot">
 </p>
+Visit the website at https://gnpaone.github.io/digital-learning
+
+**Note:** If the content isn't loaded after a few seconds, try refreshing the page.
 
 ## Features
 
